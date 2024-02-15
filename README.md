@@ -9,7 +9,7 @@ The goal is to analyze and classify text data based on sentiment, helping users 
 
 Main topics :
 - Data Cleansing
-- Data Analysis
-- Vectorization
-- Classification
+- Data Analysis (Stats, observations etc)
+- Vectorization (TF-IDF, Word Embeddings)
+- Classification (LogisticRegression, NeuralNetwork Model)
 - Learning Curves, ROC, Confusion Matrix
