@@ -6,3 +6,10 @@ The goal is to analyze and classify text data based on sentiment, helping users 
 - Logistic Regression Model: A straightforward approach to sentiment analysis using logistic regression.
 - Neural Network Model: Utilizing a basic neural network for more complex pattern recognition in sentiment analysis.
 - Recurrent Neural Network (RNN) Model: Leveraging RNNs to capture sequential dependencies in text data.
+
+Main topics :
+- Data Cleansing
+- Data Analysis
+- Vectorization
+- Classification
+- Learning Curves, ROC, Confusion Matrix
